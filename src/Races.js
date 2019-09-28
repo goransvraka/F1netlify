@@ -34,7 +34,7 @@ class Races extends React.Component {
     }
 
     getRaces() {
-        var url = `http://ergast.com/api/f1/${this.state.year}/results/1.json`;
+        var url = `https://ergast.com/api/f1/${this.state.year}/results/1.json`;
         $.get(url, (data) => {
             if (data.MRData.RaceTable === undefined) {
                 this.setState({ isLoading: 1 });

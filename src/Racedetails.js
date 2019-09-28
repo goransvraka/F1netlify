@@ -25,8 +25,8 @@ class Racedetails extends React.Component {
 
     getAllData() {
         raceID = this.props.match.params.raceID
-        var firstCall = $.ajax(`http://ergast.com/api/f1/${this.state.year}/${raceID}/qualifying.json`);
-        var secondCall = $.ajax(`http://ergast.com/api/f1/${this.state.year}/${raceID}/results.json`);
+        var firstCall = $.ajax(`https://ergast.com/api/f1/${this.state.year}/${raceID}/qualifying.json`);
+        var secondCall = $.ajax(`https://ergast.com/api/f1/${this.state.year}/${raceID}/results.json`);
         $.when(firstCall, secondCall).done(function (data1, data2) {
             if (data1[0].MRData.RaceTable.Races[0] === undefined || data2[0].MRData.RaceTable === undefined) {
                 this.setState({ isLoading: 1 });

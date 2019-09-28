@@ -28,8 +28,8 @@ class Teamlink extends React.Component {
 
     getAllData() {
         teamID = this.props.match.params.teamID
-        var firstCall = $.ajax(`http://ergast.com/api/f1/${this.state.year}/constructors/${teamID}/constructorStandings.json`);
-        var secondCall = $.ajax(`http://ergast.com/api/f1/${this.state.year}/constructors/${teamID}/results.json`);
+        var firstCall = $.ajax(`https://ergast.com/api/f1/${this.state.year}/constructors/${teamID}/constructorStandings.json`);
+        var secondCall = $.ajax(`https://ergast.com/api/f1/${this.state.year}/constructors/${teamID}/results.json`);
         $.when(firstCall, secondCall).done(function (data1, data2) {
             if (data1[0].MRData.StandingsTable.StandingsLists[0] === undefined || data2[0].MRData.RaceTable === undefined) {
                 this.setState({ isLoading: 1 });
