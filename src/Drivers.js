@@ -102,7 +102,7 @@ class Driver extends React.Component {
                         history.push('/' + this.props.year + '/Driverdetails/' + this.props.data.Driver.driverId);
                         this.props.updateInfo(this.props.data.Driver.givenName + " " + this.props.data.Driver.familyName);
                         console.log(localStorage.getItem("driverData"))
-                    }}>{this.props.data.Driver.givenName} {this.props.data.Driver.familyName}</Link></td>
+                    }}><i>{this.props.data.Driver.givenName} {this.props.data.Driver.familyName}</i></Link></td>
                 <td>{this.props.data.Constructors[0].name}</td>
                 <td>{this.props.data.points}</td>
             </tr>
