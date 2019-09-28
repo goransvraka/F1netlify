@@ -1,0 +1,234 @@
+[
+    {
+        "constructorId": "red_bull",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Aston_Martin_Red_Bull_Racing_logo.svg/220px-Aston_Martin_Red_Bull_Racing_logo.svg.png"
+    },
+    {
+        "constructorId": "mercedes",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Mercedes-Benz_in_Formula_One_logo.svg/220px-Mercedes-Benz_in_Formula_One_logo.svg.png"
+    },
+    {
+        "constructorId": "ferrari",
+        "logoUrl": "https://seeklogo.com/images/S/scuderia-ferrari-logo-4A9C898A63-seeklogo.com.png"
+    },
+    {
+        "constructorId": "lotus_f1",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lotus_F1_Team_logo.png"
+    },
+    {
+        "constructorId": "mclaren",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/McLaren_logo.svg/220px-McLaren_logo.svg.png"
+    },
+    {
+        "constructorId": "force_india",
+        "logoUrl": "https://medatech.com/wp-content/uploads/2019/02/forcienda.png"
+    },
+    {
+        "constructorId": "sauber",
+        "logoUrl": "https://www.sauber-group.com/wp-content/themes/sauber-website-2018/logo-group.svg"
+    },
+    {
+        "constructorId": "toro_rosso",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Scuderia_Toro_Rosso_logo.svg/250px-Scuderia_Toro_Rosso_logo.svg.png"
+    },
+    {
+        "constructorId": "williams",
+        "logoUrl": "https://www.formula1.com/content/fom-website/en/teams/Williams/_jcr_content/logo.img.png/1551261665481.png"
+    },
+    {
+        "constructorId": "marussia",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Marussia_F1.png/220px-Marussia_F1.png"
+    },
+    {
+        "constructorId": "caterham",
+        "logoUrl": "https://www.caterhamf1.co.uk/images/theme/logo.png"
+    },
+    {
+        "constructorId": "renault",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Renault_F1_Team_logo_2019.svg/220px-Renault_F1_Team_logo_2019.svg.png"
+    },
+    {
+        "constructorId": "racing_point",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Racing_Point_F1_Team_logo_2019.png/255px-Racing_Point_F1_Team_logo_2019.png"
+    },
+    {
+        "constructorId": "alfa",
+        "logoUrl": "https://www.sauber-group.com/wp-content/themes/sauber-website-2018/AlfaRomeoRacing_Logo_Pos.svg"
+    },
+    {
+        "constructorId": "haas",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Official_Haas_F1_Team_2019_logo.png/220px-Official_Haas_F1_Team_2019_logo.png"
+    },
+    {
+        "constructorId": "manor",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Manor_Motorsport_logo.png/150px-Manor_Motorsport_logo.png"
+    },
+    {
+        "constructorId": "hrt",
+        "logoUrl": "https://www.unracedf1.com/wp-content/uploads/2017/06/HRT_F1_Team_logo-1210x642.png"
+    },
+    {
+        "constructorId": "lotus_racing",
+        "logoUrl": "http://www.gasolinasuper.es/wp-content/uploads/2018/03/Lotus_Renault_GP_logo.png"
+    },
+    {
+        "constructorId": "virgin",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/fi/b/b6/Virginracing.png"
+    },
+    {
+        "constructorId": "brawn",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brawn_GP_logo.svg/220px-Brawn_GP_logo.svg.png"
+    },
+    {
+        "constructorId": "toyota",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panasonic_Toyota_Racing_logo.svg/220px-Panasonic_Toyota_Racing_logo.svg.png"
+    },
+    {
+        "constructorId": "bmw_sauber",
+        "logoUrl": "https://cdn.worldvectorlogo.com/logos/bmw-sauber-f1-team-logo-1.svg"
+    },
+    {
+        "constructorId": "honda",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Honda_F1_Racing.svg/1280px-Logo_Honda_F1_Racing.svg.png"
+    },
+    {
+        "constructorId": "super_aguri",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/SuperAguri_logo.svg/150px-SuperAguri_logo.svg.png"
+    },
+    {
+        "constructorId": "spyker",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Spyker_F1_Team_logo.png/210px-Spyker_F1_Team_logo.png"
+    },
+    {
+        "constructorId": "mf1",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Midland_F1_Racing_logo.png/230px-Midland_F1_Racing_logo.png"
+    },
+    {
+        "constructorId": "spyker_mf1",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/it/3/30/Logo_Spyker.png"
+    },
+    {
+        "constructorId": "bar",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/8/8b/BAR_logo.png"
+    },
+    {
+        "constructorId": "jordan",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Jordan_Grand_Prix_logo.png/200px-Jordan_Grand_Prix_logo.png"
+    },
+    {
+        "constructorId": "minardi",
+        "logoUrl": "http://woiweb.com/wiki/images/1/11/Minardi_F1_Team.png"
+    },
+    {
+        "constructorId": "jaguar",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Panasonic_Jaguar_Racing_logo.png/220px-Panasonic_Jaguar_Racing_logo.png"
+    },
+    {
+        "constructorId": "arrows",
+        "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/arrows-f1-01-logo-png-transparent.png"
+    },
+    {
+        "constructorId": "benetton",
+        "logoUrl": "https://img.bidorbuy.co.za/image/upload/user_images/604/1997604/1997604_130120145035_799px-Benetton_F1_Logo_svg.png"
+    },
+    {
+        "constructorId": "prost",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Prost_logo.png"
+    },
+    {
+        "constructorId": "stewart",
+        "logoUrl": "https://i.imgur.com/3V6pU0p.png"
+    },
+    {
+        "constructorId": "tyrrell",
+        "logoUrl": "http://upload.wikimedia.org/wikipedia/commons/8/8f/Tyrrell.png"
+    },
+    {
+        "constructorId": "lola",
+        "logoUrl": "https://vignette.wikia.nocookie.net/f1wikia/images/b/b3/1280px-Lola_Cars_logo.svg.png/revision/latest?cb=20180328022332"
+    },
+    {
+        "constructorId": "ligier",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Ligier.svg/220px-Logo_Ligier.svg.png"
+    },
+    {
+        "constructorId": "footwork",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Footwork_logo.png"
+    },
+    {
+        "constructorId": "forti",
+        "logoUrl": "https://i.imgur.com/lAdihj4.png"
+    },
+    {
+        "constructorId": "pacific",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Pacific_Racing_logo.png"
+    },
+    {
+        "constructorId": "simtek",
+        "logoUrl": "https://cdn.worldvectorlogo.com/logos/simtek-logo.svg"
+    },
+    {
+        "constructorId": "larrousse",
+        "logoUrl": "https://vignette.wikia.nocookie.net/f1wikia/images/5/5f/Larrousse_F1.png/revision/latest?cb=20190821192605"
+    },
+    {
+        "constructorId": "team_lotus",
+        "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/lotus-f1-team-logo-png-transparent.png"
+    },
+    {
+        "constructorId": "march",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/March_Engineering.png"
+    },
+    {
+        "constructorId": "dallara",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Dallara_logo.png"
+    },
+    {
+        "constructorId": "fondmetal",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Fondmetal.svg/220px-Fondmetal.svg.png"
+    },
+    {
+        "constructorId": "brabham",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Brabham91.png"
+    },
+    {
+        "constructorId": "leyton",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/Leyton_house_logo.png"
+    },
+    {
+        "constructorId": "lambo",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Modena_Team.jpg/220px-Modena_Team.jpg"
+    },
+    {
+        "constructorId": "ags",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Ags_logo_%28F1%29.png"
+    },
+    {
+        "constructorId": "coloni",
+        "logoUrl": "https://f2fanatic.files.wordpress.com/2012/07/scuderia-coloni-logo.png?w=1108"
+    },
+    {
+        "constructorId": "onyx",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/5/5a/Onyx.gif"
+    },
+    {
+        "constructorId": "osella",
+        "logoUrl": "https://i.pinimg.com/236x/10/70/98/10709809f0755acda6150e4cf99459b5--formula-.jpg"
+    },
+    {
+        "constructorId": "eurobrun",
+        "logoUrl": "https://i.imgur.com/5QSD1J0.png"
+    },
+    {
+        "constructorId": "life",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Life_logo_F1.png"
+    },
+    {
+        "constructorId": "rial",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Rial_racing_logo.gif/250px-Rial_racing_logo.gif"
+    },
+    {
+        "constructorId": "zakspeed",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Zakspeed_logo.png"
+    }
+]
