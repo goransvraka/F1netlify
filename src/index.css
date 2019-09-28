@@ -50,6 +50,7 @@ body {
 .search {
   background: #7a7681;
   border-color: #7a7681;
+  float: right;
 }
 ::placeholder {
   color: #edebf0;
