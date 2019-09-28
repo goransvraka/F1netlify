@@ -43,7 +43,7 @@ class Drivers extends React.Component {
         if (this.props.year === null) {
             year2 = localStorage.getItem("year")
         }
-        var url = `http://ergast.com/api/f1/${year2}/driverStandings.json`;
+        var url = `https://ergast.com/api/f1/${year2}/driverStandings.json`;
         $.get(url, (data) => {
             if (data.MRData.StandingsTable.StandingsLists[0] === undefined) {
                 this.setState({ isLoading: 1 });
