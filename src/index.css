@@ -250,6 +250,13 @@ tr {
 .mesto24 {
   background: rgba(121, 121, 121,0.8);
 }
+.vozacImg {
+transition: all 5s ease 0s;
+}
+.vozacImg:hover {
+  transform: scale(1.2);
+  border-bottom: 2px solid rgb(202, 202, 52);
+}
 table a:link {
   color:rgb(174, 211, 248);
   text-decoration: none;

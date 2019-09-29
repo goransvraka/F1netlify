@@ -104,7 +104,7 @@ class Driverdetails extends React.Component {
                         <div className="teamlogo col-6 col-sm-6 col-md-5 col-lg-4 col-xl-12 m-0 p-0">
                             <div className="row h-100 m-0">
                                 <div className="col-12 col-xl-12" style={{ textAlign: "center", padding: "3%" }}>
-                                    <img src={driverImgUrl.url} alt="Team logo" width="100%" height="100%" />
+                                    <img className="vozacImg" src={driverImgUrl.url} alt="Team logo" width="100%" height="100%" />
                                 </div>
                                 <div className="col-12 col-xl-12" style={{ textAlign: "center", padding: "3px" }}>
                                     <img src={driverCountryImgUrl.flagUrl} alt="flag-country_code" width="30%" />
