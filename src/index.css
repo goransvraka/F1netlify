@@ -251,11 +251,11 @@ tr {
   background: rgba(121, 121, 121,0.8);
 }
 .vozacImg {
-transition: all 5s ease 0s;
+transition: all 7s ease 0s;
 }
 .vozacImg:hover {
-  transform: scale(1.2);
-  border-bottom: 2px solid rgb(202, 202, 52);
+  transform: scale(1.1);
+  border-bottom: 3px solid darkred;
 }
 table a:link {
   color:rgb(174, 211, 248);
