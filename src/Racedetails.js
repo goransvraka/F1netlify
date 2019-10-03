@@ -151,7 +151,7 @@ class QualifyingResul extends React.Component {
             return arrayOfTimes.sort((a, b) => {
                 const aParts = getNumericParts(a);
                 const bParts = getNumericParts(b);
-                return aParts[0] - bParts[0] || aParts[1] - bParts[1];
+                return aParts[0] - bParts[0] || aParts[1] - bParts[1] || aParts[2] - bParts[2];
             });
             function getNumericParts(time) {
                 return time.split(' ')[0].split(':').map(x => +x);
